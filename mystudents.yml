@@ -1,0 +1,23 @@
+---
+- mystudents:
+  - name: anil
+    phno: 98989898
+    address: hyd
+      - door no: 21/7
+      - street: 7
+      - pincode: 654321
+
+  - name: sunil
+    phno: 7878787878
+    address: hyd
+      - door no: 29/7
+      - street: 7
+      - pincode: 654321
+
+
+  - name: balu
+    phno: 6767676767
+    address: hyd
+      - door no: 25/7
+      - street: 7
+      - pincode: 654321
