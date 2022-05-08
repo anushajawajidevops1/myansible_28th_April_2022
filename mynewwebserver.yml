@@ -1,6 +1,5 @@
 ---
 - hosts: all
-  become: yes
   task: 
   - name: i want to install apache2
     apt:
