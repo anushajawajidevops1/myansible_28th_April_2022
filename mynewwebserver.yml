@@ -7,8 +7,8 @@
       name: apache2
       state: present
 
-  - name: i want to install tree
+  - name: i want to install apache2
     apt:
-      name: tree
+      name: apache2
       state: resarted 
       
